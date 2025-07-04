@@ -17,7 +17,7 @@ function usePageTracking() {
 
   useEffect(() => {
     if (window.gtag) {
-      window.gtag('config', 'G-XXXXXXXXXX', {
+      window.gtag('config', 'G-HKSDWQBJQT', {
         page_path: location.pathname,
       });
     }
@@ -50,13 +50,13 @@ function App() {
   return (
     <HelmetProvider>
       <Helmet>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-HKSDWQBJQT" />
         <script>
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-XXXXXXXXXX');
+            gtag('config', 'G-HKSDWQBJQT');
           `}
         </script>
       </Helmet>
