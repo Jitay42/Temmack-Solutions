@@ -55,10 +55,51 @@ const Contact = () => {
     ]
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    console.log('Form submitted:', formData);
+ const handleSubmit = async (e: React.FormEvent) => {
+  e.preventDefault();
+
+  // Flatten serviceSelection array for Formspree
+  const dataToSend = {
+    ...formData,
+    serviceSelection: formData.serviceSelection.join(', ')
   };
+
+  try {
+    const response = await fetch('https://formspree.io/f/mvgrnozr', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+      },
+      body: JSON.stringify(dataToSend),
+    });
+
+    if (response.ok) {
+      alert('✅ Your message has been sent! We will get back to you soon.');
+      setFormData({
+        firstName: '',
+        lastName: '',
+        projectType: '',
+        company: '',
+        companyAddress: '',
+        phone: '',
+        email: '',
+        country: '',
+        otherCountry: '',
+        howHeard: '',
+        serviceSelection: [],
+        message: '',
+        file: null
+      });
+    } else {
+      alert('❌ Failed to send your message. Please try again.');
+    }
+  } catch (error) {
+    console.error('Error submitting form:', error);
+    alert('❌ An error occurred. Please try again.');
+  }
+};
+
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     const { name, value } = e.target;
