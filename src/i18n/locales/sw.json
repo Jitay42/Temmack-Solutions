@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Nyumbani",
+    "whoWeAre": "Sisi Ni Nani",
+    "whatWeDo": "Tunachofanya",
+    "whyUs": "Kwa Nini Sisi"
+  },
+  "hero": {
+    "headline": "Uwazi hubadilisha kila kitu.",
+    "subtext": "Haujaonekani. Haujaelewa tu. Temmack inasaidia chapa kuzungumza kwa ujasiri, urahisi, na mkakati.",
+    "cta": "Pata Uwazi Sasa",
+    "ctaSubtext": "Hebu tupate maneno ambayo hatimaye yanaathiri."
+  },
+  "about": {
+    "title": "Sisi Ni Nani",
+    "description": "Temmack si shamba la maudhui. Sisi ni timu ya uwazi. Tunakusaidia kuzungumza kwa kusudi, kuandika kwa mkakati, na kukua kwa urahisi.",
+    "team": {
+      "tolulope": {
+        "name": "Tolulope Ajayi Grace",
+        "title": "Mshauri Mkuu wa Maudhui",
+        "description": "Anarahisisha ujumbe mgumu kuwa maudhui ya kihisia."
+      },
+      "jennifer": {
+        "name": "Jennifer Omawumi",
+        "title": "Mfanyabiashara wa Kidijitali",
+        "description": "Anaongoza mvuto kupitia uwazi wa kampeni na mbinu za ukuaji."
+      },
+      "johanson": {
+        "name": "Johanson Fred",
+        "title": "Mshauri wa Mitandao ya Kijamii na Mtaalamu wa SEO",
+        "description": "Anaoanisha mwonekano na thamani kupitia maudhui na utafutaji."
+      },
+      "lex": {
+        "name": "Lex O'Brien",
+        "title": "Mkuu HOD – Utendaji wa Uuzaji na Mhandisi wa Maagizo ya AI",
+        "description": "Anaunda injini za uuzaji za kimkakati zinazotumia maagizo."
+      },
+      "david": {
+        "name": "David Akpovogaga",
+        "title": "Mtaalamu wa Wavuti DevOps na Mbunifu wa UX/UI",
+        "description": "Anachanganya muundo wa utendaji wa juu na saikolojia ya mtumiaji."
+      }
+    }
+  },
+  "philosophy": {
+    "title": "Hatufanyi kelele. Tunafanya uwazi.",
+    "description": "Hatuko hapa kuzamisha wavuti kwa maudhui. Tunafanya ujumbe wako ufike. Kutoka mkakati hadi utekelezaji, tunazingatia kinachofanya kazi na kwa nini.",
+    "principles": {
+      "sayLess": "Sema kidogo, maana zaidi",
+      "copyConverts": "Nakala inayobadilisha",
+      "strategyFirst": "Mkakati kabla ya mtindo"
+    }
+  },
+  "services": {
+    "title": "Tunachofanya",
+    "digitalCopywriting": {
+      "title": "Uandishi wa Kidijitali na UX",
+      "benefit": "Maneno yanayobadilisha wageni kuwa wateja"
+    },
+    "messaging": {
+      "title": "Ujumbe na Msimamo wa Chapa",
+      "benefit": "Msimamo wazi unaopasua kelele"
+    },
+    "contentStrategy": {
+      "title": "Mkakati wa Maudhui",
+      "benefit": "Maudhui ya kimkakati yanayoleta matokeo"
+    },
+    "emailMarketing": {
+      "title": "Uuzaji wa Barua Pepe na Otomatiki",
+      "benefit": "Mfuatano wa otomatiki unaolisha na kuuza"
+    },
+    "seoAudits": {
+      "title": "SEO na Ukaguzi wa Tovuti",
+      "benefit": "Uboreshaji wa mwonekano unaofanya kazi kweli"
+    },
+    "aiPrompts": {
+      "title": "Mifumo ya Maagizo ya AI Maalum",
+      "benefit": "Maudhui yanayotumia AI yanayosikika kama wewe"
+    },
+    "learnMore": "Jifunze Zaidi"
+  },
+  "contact": {
+    "title": "Hebu Tufafanue",
+    "subtitle": "Uko tayari kurahisisha ujumbe wako? Hebu tuzungumze.",
+    "firstName": "Jina la Kwanza",
+    "lastName": "Jina la Mwisho",
+    "title": "Cheo",
+    "phone": "Nambari ya Simu",
+    "country": "Nchi",
+    "howHeard": "Ulitusikiaje?",
+    "message": "Ujumbe",
+    "attachment": "Kiambatisho cha Faili",
+    "submit": "Tuma Ujumbe",
+    "responseTime": "Tutajibu ndani ya masaa 24."
+  },
+  "newsletter": {
+    "placeholder": "Ingiza barua pepe yako",
+    "subscribe": "Jiunge",
+    "microcopy": "Hatutumi spam — ni maarifa tu."
+  },
+  "footer": {
+    "faq": "Maswali Yanayoulizwa Mara Kwa Mara",
+    "privacy": "Sera ya Faragha",
+    "terms": "Masharti na Hali",
+    "copyright": "© 2025 Temmack™ Solutions. Haki zote zimehifadhiwa."
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "首页",
+    "whoWeAre": "关于我们",
+    "whatWeDo": "我们的服务",
+    "whyUs": "为什么选择我们",
+    "contactUs": "联系我们",
+    "blog": "博客",
+    "citablePen": "引用笔",
+    "ebookShelf": "电子书架",
+    "faq": "常见问题"
+  },
+  "hero": {
+    "headline": "清晰改变一切",
+    "subtext": "你不是隐形的——你只是不够清晰。我们帮助品牌大胆发声，更好销售，有方向地成长。",
+    "cta": "立即获得清晰"
+  },
+  "about": {
+    "title": "关于我们",
+    "history": "成立于2024年，致力于简化战略营销",
+    "vision": "让清晰成为竞争优势。",
+    "mission": "帮助品牌消除信息和营销中的困惑。",
+    "passion": "我们痴迷于让沟通变得轻松有效。",
+    "team": {
+      "tolulope": {
+        "name": "Tolulope Ajayi Grace",
+        "title": "高级内容策略师"
+      },
+      "jennifer": {
+        "name": "Jennifer Omawumi",
+        "title": "数字营销专家"
+      },
+      "johanson": {
+        "name": "Johanson Fred",
+        "title": "SEO和社交媒体策略师"
+      },
+      "lex": {
+        "name": "Lex O'Brien",
+        "title": "首席HOD，AI提示工程师"
+      },
+      "david": {
+        "name": "David Akpovogaga",
+        "title": "UX/UI设计师和DevOps"
+      }
+    }
+  },
+  "philosophy": {
+    "title": "我们不制造混乱。我们创造清晰——清晰推动行动。",
+    "principles": {
+      "strategy": "策略先于写作",
+      "psychology": "基于心理学的信息传递",
+      "conversion": "以转化为中心的用户体验"
+    }
+  },
+  "services": {
+    "title": "我们的服务",
+    "seeServices": "查看我们的服务",
+    "digitalCopywriting": {
+      "title": "数字和用户体验文案",
+      "description": "网站文案，UX微文案，SaaS产品文案，着陆页，品牌信息"
+    },
+    "emailMarketing": {
+      "title": "邮件营销",
+      "description": "漏斗策略，邮件文案，自动化设置，冷邮件推广"
+    },
+    "contentStrategy": {
+      "title": "内容策略",
+      "description": "博客SEO，关键词研究，内容策略，SEO审计"
+    },
+    "brandStrategy": {
+      "title": "品牌策略",
+      "description": "信息清晰度，声音发展，战略审计"
+    },
+    "aiPrompts": {
+      "title": "AI提示系统",
+      "description": "提示工作流，聊天机器人脚本，GPT工具设计"
+    },
+    "socialMedia": {
+      "title": "社交媒体",
+      "description": "广告文案，活动标题，优化"
+    }
+  },
+  "contact": {
+    "title": "让我们澄清",
+    "firstName": "名",
+    "lastName": "姓",
+    "title": "职位/角色",
+    "company": "公司名称",
+    "companyAddress": "公司地址",
+    "phone": "电话号码",
+    "email": "邮箱地址",
+    "country": "国家",
+    "howHeard": "您是如何了解我们的？",
+    "serviceSelection": "服务选择",
+    "message": "消息",
+    "fileUpload": "文件上传",
+    "submit": "让我们澄清"
+  },
+  "newsletter": {
+    "placeholder": "输入您的邮箱",
+    "subscribe": "立即订阅",
+    "microcopy": "无噪音。只有清晰驱动的内容。"
+  },
+  "citablePen": {
+    "title": "引用笔",
+    "subtitle": "Temmack正在构建一个知识推动简单的世界。",
+    "startLearning": "开始学习"
+  },
+  "error404": {
+    "title": "这条路不清楚——但我们很清楚。",
+    "subtitle": "让我们帮您找到重要的东西。",
+    "backHome": "返回首页",
+    "exploreServices": "探索服务",
+    "contactTemmack": "联系Temmack"
+  },
+  "footer": {
+    "copyright": "© 2025 Temmack™ Solutions. 保留所有权利。"
+  }
+}

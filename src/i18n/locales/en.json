@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Home",
+    "whoWeAre": "Who We Are",
+    "whatWeDo": "What We Do",
+    "whyUs": "Why Us",
+    "contactUs": "Contact Us",
+    "blog": "Blog",
+    "citablePen": "Citable-Pen",
+    "ebookShelf": "Ebook Shelf",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "headline": "Clarity Changes Everything",
+    "subtext": "You're not invisible — you're just unclear. We help brands speak boldly, sell better, and grow with direction.",
+    "cta": "Get Clear Now"
+  },
+  "about": {
+    "title": "Who We Are",
+    "history": "Founded in 2024 to simplify strategic marketing",
+    "vision": "To make clarity a competitive advantage.",
+    "mission": "Help brands remove confusion from their message and marketing.",
+    "passion": "We're obsessed with making communication effortless and effective.",
+    "team": {
+      "tolulope": {
+        "name": "Tolulope Ajayi Grace",
+        "title": "Senior Content Strategist"
+      },
+      "jennifer": {
+        "name": "Jennifer Omawumi",
+        "title": "Digital Marketer"
+      },
+      "johanson": {
+        "name": "Johanson Fred",
+        "title": "SEO & Social Media Strategist"
+      },
+      "lex": {
+        "name": "Lex O'Brien",
+        "title": "Chief HOD, AI Prompt Engineer"
+      },
+      "david": {
+        "name": "David Akpovogaga",
+        "title": "UX/UI Designer & DevOps"
+      }
+    }
+  },
+  "philosophy": {
+    "title": "We don't create clutter. We create clarity — and clarity drives action.",
+    "principles": {
+      "strategy": "Strategy before writing",
+      "psychology": "Psychology-backed messaging",
+      "conversion": "Conversion-first UX"
+    }
+  },
+  "services": {
+    "title": "What We Do",
+    "seeServices": "See Our Services",
+    "digitalCopywriting": {
+      "title": "Digital & UX Copywriting",
+      "description": "Website Copy, UX Microcopy, SaaS Product Copy, Landing Pages, Brand Messaging"
+    },
+    "emailMarketing": {
+      "title": "Email Marketing",
+      "description": "Funnel Strategy, Email Copy, Automation Setup, Cold Outreach"
+    },
+    "contentStrategy": {
+      "title": "Content Strategy",
+      "description": "Blog SEO, Keyword Research, Content Strategy, SEO Audits"
+    },
+    "brandStrategy": {
+      "title": "Brand Strategy",
+      "description": "Messaging Clarity, Voice Development, Strategic Audits"
+    },
+    "aiPrompts": {
+      "title": "AI Prompt Systems",
+      "description": "Prompt Workflows, Chatbot Scripts, GPT Tool Design"
+    },
+    "socialMedia": {
+      "title": "Social Media",
+      "description": "Ad Copy, Campaign Captions, Optimization"
+    }
+  },
+  "contact": {
+    "title": "Let's Get Clear",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "title": "Title/Role",
+    "company": "Company Name",
+    "companyAddress": "Company Address",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "country": "Country",
+    "howHeard": "How did you hear about us?",
+    "serviceSelection": "Service Selection",
+    "message": "Message",
+    "fileUpload": "File Upload",
+    "submit": "Let's Get Clear"
+  },
+  "newsletter": {
+    "placeholder": "Enter your email",
+    "subscribe": "Subscribe Now",
+    "microcopy": "No noise. Just clarity-powered content."
+  },
+  "citablePen": {
+    "title": "Citable-Pen",
+    "subtitle": "Temmack is building a world where knowledge fuels simplicity.",
+    "startLearning": "Start Learning"
+  },
+  "error404": {
+    "title": "This path isn't clear — but we are.",
+    "subtitle": "Let's help you find what matters.",
+    "backHome": "Back Home",
+    "exploreServices": "Explore Services",
+    "contactTemmack": "Contact Temmack"
+  },
+  "footer": {
+    "copyright": "© 2025 Temmack™ Solutions. All rights reserved."
+  }
+}

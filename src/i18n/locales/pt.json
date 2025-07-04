@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Início",
+    "whoWeAre": "Quem Somos",
+    "whatWeDo": "O Que Fazemos",
+    "whyUs": "Por Que Nós",
+    "contactUs": "Contate-nos",
+    "blog": "Blog",
+    "citablePen": "Citable-Pen",
+    "ebookShelf": "Estante de Ebooks",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "headline": "A Clareza Muda Tudo",
+    "subtext": "Você não é invisível — você apenas não é claro. Ajudamos marcas a falar com ousadia, vender melhor e crescer com direção.",
+    "cta": "Obtenha Clareza Agora"
+  },
+  "about": {
+    "title": "Quem Somos",
+    "history": "Fundada em 2024 para simplificar o marketing estratégico",
+    "vision": "Tornar a clareza uma vantagem competitiva.",
+    "mission": "Ajudar marcas a remover a confusão de sua mensagem e marketing.",
+    "passion": "Somos obcecados em tornar a comunicação sem esforço e eficaz.",
+    "team": {
+      "tolulope": {
+        "name": "Tolulope Ajayi Grace",
+        "title": "Estrategista de Conteúdo Sênior"
+      },
+      "jennifer": {
+        "name": "Jennifer Omawumi",
+        "title": "Profissional de Marketing Digital"
+      },
+      "johanson": {
+        "name": "Johanson Fred",
+        "title": "Estrategista SEO e Mídias Sociais"
+      },
+      "lex": {
+        "name": "Lex O'Brien",
+        "title": "Chefe HOD, Engenheiro de Prompts IA"
+      },
+      "david": {
+        "name": "David Akpovogaga",
+        "title": "Designer UX/UI e DevOps"
+      }
+    }
+  },
+  "philosophy": {
+    "title": "Não criamos desordem. Criamos clareza — e clareza gera ação.",
+    "principles": {
+      "strategy": "Estratégia antes da escrita",
+      "psychology": "Mensagens baseadas em psicologia",
+      "conversion": "UX focado em conversão"
+    }
+  },
+  "services": {
+    "title": "O Que Fazemos",
+    "seeServices": "Veja Nossos Serviços",
+    "digitalCopywriting": {
+      "title": "Copywriting Digital e UX",
+      "description": "Conteúdo Web, Microtexto UX, Conteúdo Produto SaaS, Páginas de Destino, Mensagens da Marca"
+    },
+    "emailMarketing": {
+      "title": "Email Marketing",
+      "description": "Estratégia de Funil, Conteúdo de Email, Configuração de Automação, Prospecção Fria"
+    },
+    "contentStrategy": {
+      "title": "Estratégia de Conteúdo",
+      "description": "SEO de Blog, Pesquisa de Palavras-chave, Estratégia de Conteúdo, Auditorias SEO"
+    },
+    "brandStrategy": {
+      "title": "Estratégia de Marca",
+      "description": "Clareza de Mensagens, Desenvolvimento de Voz, Auditorias Estratégicas"
+    },
+    "aiPrompts": {
+      "title": "Sistemas de Prompts IA",
+      "description": "Fluxos de Prompts, Scripts de Chatbot, Design de Ferramentas GPT"
+    },
+    "socialMedia": {
+      "title": "Mídias Sociais",
+      "description": "Conteúdo Publicitário, Legendas de Campanha, Otimização"
+    }
+  },
+  "contact": {
+    "title": "Vamos Esclarecer",
+    "firstName": "Nome",
+    "lastName": "Sobrenome",
+    "title": "Título/Função",
+    "company": "Nome da Empresa",
+    "companyAddress": "Endereço da Empresa",
+    "phone": "Número de Telefone",
+    "email": "Endereço de Email",
+    "country": "País",
+    "howHeard": "Como soube de nós?",
+    "serviceSelection": "Seleção de Serviço",
+    "message": "Mensagem",
+    "fileUpload": "Upload de Arquivo",
+    "submit": "Vamos Esclarecer"
+  },
+  "newsletter": {
+    "placeholder": "Digite seu email",
+    "subscribe": "Inscrever-se Agora",
+    "microcopy": "Sem ruído. Apenas conteúdo alimentado por clareza."
+  },
+  "citablePen": {
+    "title": "Citable-Pen",
+    "subtitle": "Temmack está construindo um mundo onde o conhecimento alimenta a simplicidade.",
+    "startLearning": "Começar a Aprender"
+  },
+  "error404": {
+    "title": "Este caminho não está claro — mas nós estamos.",
+    "subtitle": "Vamos ajudá-lo a encontrar o que importa.",
+    "backHome": "Voltar ao Início",
+    "exploreServices": "Explorar Serviços",
+    "contactTemmack": "Contatar Temmack"
+  },
+  "footer": {
+    "copyright": "© 2025 Temmack™ Solutions. Todos os direitos reservados."
+  }
+}

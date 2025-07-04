@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "whoWeAre": "Quiénes Somos",
+    "whatWeDo": "Qué Hacemos",
+    "whyUs": "Por Qué Nosotros",
+    "contactUs": "Contáctanos",
+    "blog": "Blog",
+    "citablePen": "Citable-Pen",
+    "ebookShelf": "Estantería Ebook",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "headline": "La Claridad Lo Cambia Todo",
+    "subtext": "No eres invisible — solo no eres claro. Ayudamos a las marcas a hablar con audacia, vender mejor y crecer con dirección.",
+    "cta": "Obtén Claridad Ahora"
+  },
+  "about": {
+    "title": "Quiénes Somos",
+    "history": "Fundado en 2024 para simplificar el marketing estratégico",
+    "vision": "Hacer de la claridad una ventaja competitiva.",
+    "mission": "Ayudar a las marcas a eliminar la confusión de su mensaje y marketing.",
+    "passion": "Estamos obsesionados con hacer la comunicación sin esfuerzo y efectiva.",
+    "team": {
+      "tolulope": {
+        "name": "Tolulope Ajayi Grace",
+        "title": "Estratega de Contenido Senior"
+      },
+      "jennifer": {
+        "name": "Jennifer Omawumi",
+        "title": "Mercadóloga Digital"
+      },
+      "johanson": {
+        "name": "Johanson Fred",
+        "title": "Estratega SEO y Redes Sociales"
+      },
+      "lex": {
+        "name": "Lex O'Brien",
+        "title": "Jefe HOD, Ingeniero de Prompts IA"
+      },
+      "david": {
+        "name": "David Akpovogaga",
+        "title": "Diseñador UX/UI y DevOps"
+      }
+    }
+  },
+  "philosophy": {
+    "title": "No creamos desorden. Creamos claridad — y la claridad impulsa la acción.",
+    "principles": {
+      "strategy": "Estrategia antes de escribir",
+      "psychology": "Mensajes respaldados por psicología",
+      "conversion": "UX enfocado en conversión"
+    }
+  },
+  "services": {
+    "title": "Qué Hacemos",
+    "seeServices": "Ver Nuestros Servicios",
+    "digitalCopywriting": {
+      "title": "Redacción Digital y UX",
+      "description": "Contenido Web, Microtexto UX, Contenido Producto SaaS, Páginas de Aterrizaje, Mensajería de Marca"
+    },
+    "emailMarketing": {
+      "title": "Email Marketing",
+      "description": "Estrategia de Embudo, Contenido Email, Configuración Automatización, Prospección en Frío"
+    },
+    "contentStrategy": {
+      "title": "Estrategia de Contenido",
+      "description": "SEO Blog, Investigación Palabras Clave, Estrategia Contenido, Auditorías SEO"
+    },
+    "brandStrategy": {
+      "title": "Estrategia de Marca",
+      "description": "Claridad de Mensajes, Desarrollo de Voz, Auditorías Estratégicas"
+    },
+    "aiPrompts": {
+      "title": "Sistemas de Prompts IA",
+      "description": "Flujos de Prompts, Scripts de Chatbot, Diseño Herramientas GPT"
+    },
+    "socialMedia": {
+      "title": "Redes Sociales",
+      "description": "Contenido Publicitario, Leyendas de Campaña, Optimización"
+    }
+  },
+  "contact": {
+    "title": "Aclaremos Juntos",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "title": "Título/Rol",
+    "company": "Nombre de la Empresa",
+    "companyAddress": "Dirección de la Empresa",
+    "phone": "Número de Teléfono",
+    "email": "Dirección de Email",
+    "country": "País",
+    "howHeard": "¿Cómo supiste de nosotros?",
+    "serviceSelection": "Selección de Servicio",
+    "message": "Mensaje",
+    "fileUpload": "Subir Archivo",
+    "submit": "Aclaremos Juntos"
+  },
+  "newsletter": {
+    "placeholder": "Ingresa tu email",
+    "subscribe": "Suscribirse Ahora",
+    "microcopy": "Sin ruido. Solo contenido impulsado por claridad."
+  },
+  "citablePen": {
+    "title": "Citable-Pen",
+    "subtitle": "Temmack está construyendo un mundo donde el conocimiento alimenta la simplicidad.",
+    "startLearning": "Comenzar a Aprender"
+  },
+  "error404": {
+    "title": "Este camino no está claro — pero nosotros sí.",
+    "subtitle": "Déjanos ayudarte a encontrar lo que importa.",
+    "backHome": "Volver al Inicio",
+    "exploreServices": "Explorar Servicios",
+    "contactTemmack": "Contactar Temmack"
+  },
+  "footer": {
+    "copyright": "© 2025 Temmack™ Solutions. Todos los derechos reservados."
+  }
+}
